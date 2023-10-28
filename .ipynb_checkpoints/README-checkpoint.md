@@ -1,4 +1,4 @@
-<!-- ![Banner Principal](https://github.com/mrco-at/mrco-at/blob/main/Banner.png) --> 
+![Banner Principal](https://github.com/yukioandre/yukioandre/blob/main/Banner.png) 
 
 ### Olá, Pessoal! Meu nome é Marco e este é meu repositório de Data Analysis/ Data Science / Machine Learning ! 👋
 

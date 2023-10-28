@@ -6,4 +6,4 @@
 - 🙋‍♂️ Sou bacharel em Ciências Atmosféricas, e mestrado em Meteorologia em andamento.
 - 🎲 Eu estou comecaçando a trabalhar com Data Science e Data Analysis a partir de 2023, apesar de já lidar com diversas técnicas relacionadas desde 2018. 
 - ⌨️ Eu tenho experiência com Python, R, QGIS, Matlab, SQL, Excel, FORTRAN e GrADS.
-- 📫 Quer entrar em contato? escreva um e-mail para reis.marco.stm@gmail.com ou pelas rede social [Meu Perfil no LinkedIn](https://www.linkedin.com/in/marco-ant%C3%B4nio-godinho-dos-reis-612128200/)
+- 📫 Quer entrar em contato? escreva um e-mail para reis.marco.stm@gmail.com ou pelo [Meu Perfil no LinkedIn](https://www.linkedin.com/in/marco-ant%C3%B4nio-godinho-dos-reis-612128200/)
